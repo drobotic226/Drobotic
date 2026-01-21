@@ -1,0 +1,6 @@
+{
+    "require": {
+        "twilio/sdk": "^8.8",
+        "spomky-labs/otphp": "^10.0"
+    }
+}
